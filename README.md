@@ -24,7 +24,7 @@ Top Education Required: Bachelor
 Top Industry: Retail
 Top Employee Residence: Sweden
 
-##Salary Insights
+## Salary Insights
 Highest Salary: Machine Learning Engineer
 Lowest Salary: AI Consultant
 Industries with Highest Salaries: Media, Retail
